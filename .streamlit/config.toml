@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#039fd8ff"              # neon green for buttons & highlights
+backgroundColor="#0D0D0D"           # near-black background
+secondaryBackgroundColor="#1A1A1A"  # darker containers/chat bubbles
+textColor="#FFFFFF"                 # white text
+font="monospace"
